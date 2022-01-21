@@ -1,0 +1,4 @@
+
+.DS_Store
+src/classes/__pycache__/SegNet.cpython-38.pyc
+src/classes/__pycache__/SegNetDataSet.cpython-38.pyc
