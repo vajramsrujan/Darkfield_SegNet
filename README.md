@@ -1,9 +1,8 @@
 # Darkfield_SegNet
 
-## Notice:
-A complete breakdown of the entire project can be found in the **semantic segmentation jupyter notebook** titled *Semantic_SegNet.ipynb.
 
 ## Summary
+A complete breakdown of the entire project can be found in the **semantic segmentation jupyter notebook** titled *Semantic_SegNet.ipynb.*
 This is a semantic segmentation project I built in PyTorch to segment red blood cells from bacteria in darkfield microscopy images. 
 
 ## Description: 
@@ -11,8 +10,6 @@ I've been interested in constructing a semantic segmenter for microscopy image d
 
 ## A note about the dataset
 For obvious reasons, I can not push the dataset onto Github given its size. Instead, I provide a link to a google drive where the pre-processed dataset is ready to download: 
-
-
 
 ## Running SegNet
 I have pre-saved a trained model laballed as a .tar file. Currently, you can test this model by setting the LOAD_MODEL parameter to True in segnet.py. I've included some helful comments for guidance. 
