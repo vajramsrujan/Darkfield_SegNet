@@ -13,5 +13,9 @@ For obvious reasons, I can not push the dataset onto Github given its size. Inst
 
 https://drive.google.com/drive/folders/1RQVSvPGG5Sh2WUbT0TmfgHgkFnZ9UPKW?usp=sharing
 
+IMPORTANT:
+Once these folders are downloaded, drop them into the 'archive' folder found in the src folder. Also, make sure to change the directory string when initializing the dataset in main.py to point to the archive folder (line 49.) 
+
+
 ## Running SegNet
 I have pre-saved a trained model laballed as a .tar file. Currently, you can test this model by setting the LOAD_MODEL parameter to True in main.py. I've included some helful comments for guidance. 
