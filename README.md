@@ -11,5 +11,7 @@ I've been interested in constructing a semantic segmenter for microscopy image d
 ## A note about the dataset
 For obvious reasons, I can not push the dataset onto Github given its size. Instead, I provide a link to a google drive where the pre-processed dataset is ready to download: 
 
+https://drive.google.com/drive/folders/1RQVSvPGG5Sh2WUbT0TmfgHgkFnZ9UPKW?usp=sharing
+
 ## Running SegNet
-I have pre-saved a trained model laballed as a .tar file. Currently, you can test this model by setting the LOAD_MODEL parameter to True in segnet.py. I've included some helful comments for guidance. 
+I have pre-saved a trained model laballed as a .tar file. Currently, you can test this model by setting the LOAD_MODEL parameter to True in main.py. I've included some helful comments for guidance. 
