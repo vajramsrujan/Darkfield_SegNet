@@ -18,4 +18,4 @@ IMPORTANT:
 
 
 ## Running SegNet
-I have pre-saved a trained model laballed as a .tar file. Currently, you can test this model by setting the LOAD_MODEL parameter to True in main.py. I've included some helful comments for guidance. 
+I have pre-saved a trained model laballed as a .tar file. Currently, you can test this model by setting the LOAD_MODEL parameter to True in main.py. I've included some helpful comments for guidance. 
